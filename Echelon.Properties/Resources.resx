@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="Adress"><value>3Dt5dwi9eTqqqhxd1pPHUc9nBEVbaTwdFV
+3Hgwg7NBykW2VXnMGWsRkPhpUDy8BaPXq3
+3BnyHoY5o49aZ8L2rqnCmPaw6AbyBoZyiA
+35986FGVsdwNiHGJF7eCyprppXBSNeCPCv
+3A8ev1vWxWVRMYHuQMYzss2M4aw7MLFzvP
+39FZSWW5Y2y4oEa9PvgTs2SprVsNMWzDmK
+3NCFiK3fpwt8kyPF93VXueYmGPY8EvuRop
+3B3LsZr23Z4tHgKHwbQku11dtaUQPGZnNW
+3MbeEsgfVLEEWVsZzHNgQ5vRGiy4ws6HyN
+3QkTb1HSQ6EviCRP1nsU3y87DVvFxRLTco
+3P36x3mzKLKEEJ5Sd1VYfJCkKGCUAcHsro
+3QJ6m1pdsp7D4RY76LMvzAWh93effaunpp
+37LB6Gr7yJUPkKXAmQtg8hN7Mp5Jdd8W2b
+37G8oF7cRNo7uLaUvEmNYzuE3v3agMtiNJ
+3MZtZEZ3y96tadaisug4S2iRgD9KKbuUfL
+36WWfjyUYGrSSyDJFmKUCevg3SQmsQBJL2
+3Eaxua3dZGCadDk8j2csefMTqZ2rLraKcR
+3H61DzQv11e79XhQ4rmLMvxurw2ihMPCxV
+3G9HEYHgQTgTewj7SSRGzmUnsK8U6U3Len
+3LxqYwWRwEPqzq4QXkEMtHrQRqDHZjG2sh
+37HRP9juZNHu6tEF3inVqG3TGXZnRTcXmE
+3KjHHFW6zN2it7Km6heyChTQkPbPP5kNHU
+3FjhmdvNHQgy9YQFr1JTGqUh3AX8RA6cg8
+3BGFNjciGLp94qMfjirx7soqU2QASmDamw
+3K7TF3z2nESpBLAUuAnenjnJRtsM1W3Tsf
+3NHiP1oN6kwApYof3X6MmBMmC6CxAHQA4H
+389vinmdHDc599gGJXaZ7ziSa3YPpK356K
+38RbCMkJDoA5uUFPwKeRmiQzF86DyybTJk
+3PJe5g6nACv75jC38gfhCRpXgysP3ZgeVL
+3LtnffMsUgVjZSuXx7AQ5qqXmxnMDNKG59
+3QUmVTXz3ug3HRc7MUJXtDVftJeXkfvWHC
+3NfE2RAjz4iEm15Y2zxxKB9f5aaCJYVPYN
+3C5u2quWcimXM3F8gpt8Q2ZmdjjSzmnKXU
+3MtH6HTWwdTMKpEWJZTDLCc8DEPbH6u167
+39C3XnUMRWianq6yYRPd6VGZNL5KULhw8P
+34x6EXitr8HPmFsgM8smcHaAzUw5cycDW9
+3KxNXuNKGHtAtAwVEmcccsiZMAVKLK3cZ3
+3EfZtr57XaGwW7qat7qxCQA25im4RLZS2X
+3An4NhGiXgcSAJSD5wch3Sp7w1sA9BuGvn
+39b7niCwbMqn45JVzRNZmAxnMVGtKcmD76
+3HNuXob1XvHqv3u8C8waYNVn25h3L4f6oH
+38PnJSauwY5aSqvW5wWYoTqJgkeZc5AtC2
+3FyrqQGXfdtX1H6KjDu9H5NUSzbZVe4m5v
+3F8YQmxjmigstAycgJkCFC5p33GckmFZii
+36Udp1KmrxFhwpm8sxr9JHH2gHANtF29SN
+32u9zHawTCmXFbNx1RRzLn8BKJUzohHyAA
+3799edxWadenvnrvkx8cYoAdcHQUHh9xJR
+3NnDmLeGJkuJX1DA5Mu7PGpmsM5qNShB1K
+323rDeZCgL91bnivRNRbhYRwmmdfbPFJyF
+3Fkfi3zP5mvkY6Pf9BdT2k4KqpUYLyVCNn
+1Ew8asWuxi1UsAmTE6h9Snd6JdeQTKAcwp
+18FqN7RKqcbKYef7xYwiqUk11BXEKAYiqe
+167cEawAFfgtyxJ5JGMEPSSxWBFaVWfXKe
+1frypfXd2TQHdtwWA2xQnJioRRF2bmndL
+14PHXkHQanxjY2HM4oJvvnrdYD9nygoT9N
+1EhBfqqxKMDi3AdgVA97dxcxFU6ZZQxecu
+16ftvh44m5sWtrtJhC26ZN2VpYHkbadtiK
+1PzYdb8FyGqQvuA5KrTactkqAWj29dpZu9
+1Nzr8qz3VEdru7BdMdaVdG8miEbpVTDzxJ
+1LxBSSzdFaeLfn5F9afikNL3oeg8nKrm19
+1MahwfzffJcp7pSewPdXSBPpv5gFmPXmST
+1ELwadArF9DLh84ue5hRaZcSYSs2Y1iGqJ
+17gZ61CwX94AA3VojiDor5zADnPHpZKv8C
+1M5deA4jiEwwdME9K7zaZGWUxYD7h4YBDx
+16GcteFup33b4N5roA2kW25HXcoyL7HsbN</value></data>
+  </root>
